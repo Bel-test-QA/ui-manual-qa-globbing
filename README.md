@@ -52,14 +52,14 @@
 <summary><b>view details</b></summary>
 <br>
   
-*   🔷 **[Читать Введение проекта (PDF)](./introduction/project-introduction.pdf)**
-*   🔷 **[Открыть набор тест-кейсов (PDF)](./test-cases/registration-test-cases.pdf)**
-*   🔷 **[Открыть баг-репорты и градацию дефектов (PDF)](./bug-reports/registration-bug-reports.pdf)**
-*   🔷 **[Посмотреть тестовые метрики (PDF)](./test-metrics/test-metrics.pdf)**
-*   🔷 **[Читать Заключение / Сводный отчет (Test Summary Report) (PDF)](./test-summary/test-summary-report.pdf)**
-*   🔷 **[Смотреть полную аттестационную работу целиком (PDF)](./full-project/full-project.pdf)**
-*   🔷 **[Смотреть видеозапись защиты проекта (MP4)](./project-defense/project-screencast.mp4)**
-*   🔷 **[Посмотреть официальный сертификат ТГУ (PDF)](./full-project/tsu-qa-certificate.pdf)**
+*  **[Читать Введение проекта (PDF)](./introduction/project-introduction.pdf)**
+*  **[Открыть набор тест-кейсов (PDF)](./test-cases/registration-test-cases.pdf)**
+*  **[Открыть баг-репорты и градацию дефектов (PDF)](./bug-reports/registration-bug-reports.pdf)**
+*  **[Посмотреть тестовые метрики (PDF)](./test-metrics/test-metrics.pdf)**
+*  **[Читать Заключение / Сводный отчет (Test Summary Report) (PDF)](./test-summary/test-summary-report.pdf)**
+*  **[Смотреть полную аттестационную работу целиком (PDF)](./full-project/full-project.pdf)**
+*  **[Смотреть видеозапись защиты проекта (MP4)](./project-defense/project-screencast.mp4)**
+*  **[Посмотреть официальный сертификат ТГУ (PDF)](./full-project/tsu-qa-certificate.pdf)**
 </details>
 
 
