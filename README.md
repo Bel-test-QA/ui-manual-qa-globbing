@@ -6,7 +6,9 @@
 
 ---
 
-### 📂 repository structure
+<details>
+<summary><b>📂 repository structure</b></summary>
+<br>
 
 ```text
 ├── introduction/           # Шаг 0: Введение, описание объекта тестирования, цели тестрования.
@@ -18,7 +20,7 @@
 ├── full-project/           # Итог: Полная версия аттестационной работы от Введения до Приложений
 └── project-defense/        # Демо: Видеозапись защиты проекта и официальный сертификат ТГУ
 ```
-
+</details>
 ---
 
 ### 📋 project documentation & contents
