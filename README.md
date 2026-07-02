@@ -1,4 +1,4 @@
-## 🌐 project 2: UI Manual QA Suite: Registration Service | Globbing Shopping Solutions
+## 🌐 Project 2: UI Manual QA Suite: Registration Service | Globbing Shopping Solutions
 
 Итоговая аттестационная (проектная) работа по программе повышения квалификации **«Специалист по тестированию программного обеспечения» (ТГУ)**. 
 
@@ -24,6 +24,7 @@
 <details>
 <summary><b>view details</b></summary>
 <br>
+  
 *   **Введение (`introduction/`):** Описание объекта тестирования, цели тестрования.
 *   **Чек-листы (`checklists/`):** *Приложение А* — Высокоуровневый список проверок.
 *   **Тест-кейсы (`test-cases/`):**  Позитивные и негативные сценарии проверок для ручного функционального и нефункционального тестирования.
@@ -34,27 +35,31 @@
 </details>
 
 
-### 🛠️ tech stack & tools
+### 🛠️ QA Skills & Tools
 <details>
 <summary><b>view details</b></summary>
 <br>
-*   **Тест-дизайн и документирование:** Чек-лист, тест-кейсы, баг-репорты, сводный отчет, метрики (TSR / TSR-метрики).
+
+*   **Тест-дизайн & документирование:** Чек-лист, тест-кейсы, баг-репорты, сводный отчет, метрики (TSR / TSR-метрики).
 *   **Виды тестирования:** Функциональное тестирование, дымовое, GUI, UI/UX тестирование, интеграционное, 
 тестирование критического пути, позитивное/негативное тестирование.
 *   **Инструменты фиксации:** Скринкаст (.mp4), видео-фиксация дефектов (.mp4) .
 </details>
 
 
-### 🔗 Quick access & Project materials
-
+### 🔗 Quick Access & Project Materials
+<details>
+<summary><b>view details</b></summary>
+<br>
+  
 *   📖 **[Читать Введение проекта (PDF)](./introduction/project-introduction.pdf)**
 *   📋 **[Открыть чек-лист тестирования (PDF)](./checklists/registration-checklist.pdf)**
 *   🧪 **[Открыть набор тест-кейсов (PDF)](./test-cases/ui-registration-test-cases.pdf)**
 *   🐛 **[Открыть баг-репорты и градацию дефектов (PDF)](./bug-reports/ui-registration-bug-reports.pdf)**
 *   📊 **[Посмотреть тестовые метрики и графики (PDF)](./test-metrics/defect-metrics.pdf)**
 *   📝 **[Читать Заключение / Сводный отчет (Test Summary Report) (PDF)](./test-summary/test-summary-report.pdf)**
-*   📄 **[Смотреть полную аттестационную работу целиком (PDF)](./full-project/full-project.pdf)**
+*   📄 **[Смотреть полную аттестационную работу (PDF)](./full-project/full-project.pdf)**
 *   🎬 **[Смотреть видеозапись защиты проекта (MP4)](./project-defense/project-defense.mp4)**
 *   🎓 **[Посмотреть официальный сертификат ТГУ (PDF)](./full-project/tsu-qa-certificate.pdf)**
-
+</details>
 
