@@ -6,7 +6,7 @@
 
 ---
 
-### 📂 Repository Structure
+### ⚙️ Repository Structure
 
 ```text
 ├── introduction/           # Шаг 0: Введение, описание объекта тестирования, цели тестрования.
@@ -19,7 +19,7 @@
 └── project-defense/        # Демо: Видеозапись защиты проекта и официальный сертификат ТГУ
 ```
 
-### 📋 Project Documentation
+### 📘 Project Documentation
 <h6>Все артефакты контроля качества и сопутствующие документы извлечены и упакованы в структурированные PDF-файлы для быстрой и удобной навигации:</h6>
 <details>
 <summary><b>view details</b></summary>
@@ -35,15 +35,15 @@
 </details>
 
 
-### 🛠️ QA Skills & Tools
+### 🔎 QA Skills & Tools
 <details>
 <summary><b>view details</b></summary>
 <br>
 
-*   **Тест-дизайн & документирование:** Чек-лист, тест-кейсы, баг-репорты, сводный отчет, метрики (TSR / TSR-метрики).
+*   **Тест-дизайн и Документирование:** Чек-лист, тест-кейсы, баг-репорты, сводный отчет, метрики (TSR / TSR-метрики).
 *   **Виды тестирования:** Функциональное тестирование, дымовое, GUI, UI/UX тестирование, интеграционное, 
 тестирование критического пути, позитивное/негативное тестирование.
-*   **Инструменты фиксации:** Скринкаст (.mp4), видео-фиксация дефектов (.mp4) .
+*   **Инструменты фиксации:** Скринкаст (.mp4), видео-фиксация дефектов (.mp4).
 </details>
 
 
@@ -52,14 +52,14 @@
 <summary><b>view details</b></summary>
 <br>
   
-*   📖 **[Читать Введение проекта (PDF)](./introduction/project-introduction.pdf)**
-*   📋 **[Открыть чек-лист тестирования (PDF)](./checklists/registration-checklist.pdf)**
-*   🧪 **[Открыть набор тест-кейсов (PDF)](./test-cases/ui-registration-test-cases.pdf)**
-*   🐛 **[Открыть баг-репорты и градацию дефектов (PDF)](./bug-reports/ui-registration-bug-reports.pdf)**
-*   📊 **[Посмотреть тестовые метрики и графики (PDF)](./test-metrics/defect-metrics.pdf)**
-*   📝 **[Читать Заключение / Сводный отчет (Test Summary Report) (PDF)](./test-summary/test-summary-report.pdf)**
-*   📄 **[Смотреть полную аттестационную работу (PDF)](./full-project/full-project.pdf)**
-*   🎬 **[Смотреть видеозапись защиты проекта (MP4)](./project-defense/project-defense.mp4)**
-*   🎓 **[Посмотреть официальный сертификат ТГУ (PDF)](./full-project/tsu-qa-certificate.pdf)**
+*   🔷 **[Читать Введение проекта (PDF)](./introduction/project-introduction.pdf)**
+*   🔷 **[Открыть набор тест-кейсов (PDF)](./test-cases/registration-test-cases.pdf)**
+*   🔷 **[Открыть баг-репорты и градацию дефектов (PDF)](./bug-reports/registration-bug-reports.pdf)**
+*   🔷 **[Посмотреть тестовые метрики (PDF)](./test-metrics/test-metrics.pdf)**
+*   🔷 **[Читать Заключение / Сводный отчет (Test Summary Report) (PDF)](./test-summary/test-summary-report.pdf)**
+*   🔷 **[Смотреть полную аттестационную работу целиком (PDF)](./full-project/full-project.pdf)**
+*   🔷 **[Смотреть видеозапись защиты проекта (MP4)](./project-defense/project-screencast.mp4)**
+*   🔷 **[Посмотреть официальный сертификат ТГУ (PDF)](./full-project/tsu-qa-certificate.pdf)**
 </details>
+
 
