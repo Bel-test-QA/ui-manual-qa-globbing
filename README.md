@@ -47,7 +47,7 @@
 </details>
 
 
-### ℹ️ Quick Start
+### ℹ️ Quick Start & User Guide
 <details>
 <summary><b>view details</b></summary>
 <br>
