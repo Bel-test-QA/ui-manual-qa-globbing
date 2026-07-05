@@ -6,7 +6,7 @@
 
 ---
 
-### ⚙️ Repository Structure
+## ⚙️ Repository Structure
 
 ```text
 ├── introduction/           # Шаг 0: Введение, описание объекта тестирования, цели тестрования.
@@ -19,7 +19,7 @@
 └── project-defense/        # Демо: Видеозапись защиты проекта и официальный сертификат ТГУ
 ```
 
-### 📘 Project Documentation
+## 📘 Project Documentation
 <h6>Все артефакты контроля качества и сопутствующие документы извлечены и упакованы в структурированные PDF-файлы для быстрой и удобной навигации:</h6>
 <details>
 <summary><b>view details</b></summary>
@@ -34,7 +34,7 @@
 *   **Полный проект (`full-project/`):** Единый «целиковый» документ аттестационной работы, объединяющий все разделы и приложения. 
 </details>
 
-### 🔎 QA Skills & Tools
+## 🔎 QA Skills & Tools
 <details>
 <summary><b>view details</b></summary>
 <br>
@@ -46,7 +46,7 @@
 </details>
 
 
-### ℹ️ Quick Start & User Guide
+## ℹ️ Quick Start & User Guide
 <details>
 <summary><b>view details</b></summary>
 <br>
@@ -72,7 +72,7 @@
 </details>
 
 
-### 🔗 Quick Access & Project Materials
+## 🔗 Quick Access & Project Materials
 <details>
 <summary><b>view details</b></summary>
 <br>
