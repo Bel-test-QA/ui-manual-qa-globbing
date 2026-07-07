@@ -65,7 +65,7 @@
 1. Склонируйте репозиторий на локальное устройство, выполнив команду в терминале:
   
    ```bash
-   git clone https://github.com/Bel-test-QA/ui-manual-qa-globbing
+   git clone https://github.com/Bel-test-QA/ui-manual-qa-globbing.git
    ```
 2. Перейдите в локальную директорию проекта.
 3. Откройте необходимый файл через любой PDF-reader для полноценного изучения интерактивных материалов.
